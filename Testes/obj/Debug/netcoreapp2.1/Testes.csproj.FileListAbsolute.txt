@@ -1,0 +1,17 @@
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\bin\Debug\netcoreapp2.1\Testes.deps.json
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\bin\Debug\netcoreapp2.1\Testes.runtimeconfig.json
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\bin\Debug\netcoreapp2.1\Testes.runtimeconfig.dev.json
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\bin\Debug\netcoreapp2.1\Testes.dll
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\bin\Debug\netcoreapp2.1\Testes.pdb
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\bin\Debug\netcoreapp2.1\ChamadasHttpClient.dll
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\bin\Debug\netcoreapp2.1\ChamadasHttpClient.pdb
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\obj\Debug\netcoreapp2.1\Testes.csprojAssemblyReference.cache
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\obj\Debug\netcoreapp2.1\Testes.csproj.CoreCompileInputs.cache
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\obj\Debug\netcoreapp2.1\Testes.AssemblyInfoInputs.cache
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\obj\Debug\netcoreapp2.1\Testes.AssemblyInfo.cs
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\obj\Debug\netcoreapp2.1\Testes.csproj.CopyComplete
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\obj\Debug\netcoreapp2.1\Testes.dll
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\Testes\obj\Debug\netcoreapp2.1\Testes.pdb

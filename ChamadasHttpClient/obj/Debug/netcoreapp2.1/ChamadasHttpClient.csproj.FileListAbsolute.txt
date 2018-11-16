@@ -1,0 +1,14 @@
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\ChamadasHttpClient\bin\Debug\netcoreapp2.1\ChamadasHttpClient.deps.json
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\ChamadasHttpClient\bin\Debug\netcoreapp2.1\ChamadasHttpClient.runtimeconfig.json
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\ChamadasHttpClient\bin\Debug\netcoreapp2.1\ChamadasHttpClient.runtimeconfig.dev.json
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\ChamadasHttpClient\bin\Debug\netcoreapp2.1\ChamadasHttpClient.dll
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\ChamadasHttpClient\bin\Debug\netcoreapp2.1\ChamadasHttpClient.pdb
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\ChamadasHttpClient\obj\Debug\netcoreapp2.1\ChamadasHttpClient.csprojAssemblyReference.cache
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\ChamadasHttpClient\obj\Debug\netcoreapp2.1\ChamadasHttpClient.csproj.CoreCompileInputs.cache
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\ChamadasHttpClient\obj\Debug\netcoreapp2.1\ChamadasHttpClient.RazorAssemblyInfo.cache
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\ChamadasHttpClient\obj\Debug\netcoreapp2.1\ChamadasHttpClient.RazorAssemblyInfo.cs
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\ChamadasHttpClient\obj\Debug\netcoreapp2.1\ChamadasHttpClient.AssemblyInfoInputs.cache
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\ChamadasHttpClient\obj\Debug\netcoreapp2.1\ChamadasHttpClient.AssemblyInfo.cs
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\ChamadasHttpClient\obj\Debug\netcoreapp2.1\ChamadasHttpClient.RazorTargetAssemblyInfo.cache
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\ChamadasHttpClient\obj\Debug\netcoreapp2.1\ChamadasHttpClient.dll
+C:\Users\lalvespa\Documents\Projetos\NetCore\ChamadasHttpClientFactory\ChamadasHttpClient\obj\Debug\netcoreapp2.1\ChamadasHttpClient.pdb
