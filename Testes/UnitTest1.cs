@@ -21,7 +21,7 @@ namespace Testes
                  
 
         [Fact]
-        public void MockDaChamadaHttpClientFactory()
+        public async void MockDaChamadaHttpClientFactory()
         {
             var chamadaMock = Substitute.For<IChamada>();
            var httpClientFactoryMock = Substitute.For<IHttpClientFactory>();
@@ -29,16 +29,18 @@ namespace Testes
 
             var fakeHttpMessageHandler = new FakeHttpMessageHandler(new HttpResponseMessage() {
                 StatusCode = HttpStatusCode.OK,
-                Content = new StringContent(JsonConvert.SerializeObject("Hello World"), Encoding.UTF8, "application/json") 
+                
+                Content = new StringContent("Hello World", Encoding.UTF8, "text/plain") 
             });
             var fakeHttpClient = new HttpClient(fakeHttpMessageHandler);
-
-            httpClientFactoryMock.CreateClient().Returns(fakeHttpClient);
+            fakeHttpClient.BaseAddress = new Uri("http://good.uri");
 
             
 
+            httpClientFactoryMock.CreateClient("mocky").Returns(fakeHttpClient);
+     
             var chamada = new Chamada(httpClientFactoryMock);
-            var helloWorld = chamada.RetornaDadosApi();
+            var helloWorld = await chamada.RetornaDadosApi();
            
 
             Assert.Equal("Hello World", helloWorld);

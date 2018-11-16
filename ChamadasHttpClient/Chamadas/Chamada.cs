@@ -1,4 +1,6 @@
+using System.IO;
 using System.Net.Http;
+using System.Threading.Tasks;
 
 namespace ChamadasHttpClient.Chamadas
 {
@@ -10,11 +12,13 @@ namespace ChamadasHttpClient.Chamadas
         {
             this._clientFactory = clientFactory;
         }
-        public string RetornaDadosApi()
+        public Task<string> RetornaDadosApi()
         {
             var mockyClient = _clientFactory.CreateClient("mocky");
 
-            return mockyClient.GetStringAsync("/v2/5185415ba171ea3a00704eed").Result;
+            return mockyClient.GetStringAsync("/v2/5185415ba171ea3a00704eed");
         }
+
+        
     }
 }

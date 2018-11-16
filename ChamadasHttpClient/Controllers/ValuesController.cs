@@ -20,12 +20,12 @@ namespace ChamadasHttpClient.Controllers
         }
         
         [HttpGet]
-        public ActionResult<string> Get()
+        public  ActionResult<string> Get()
         {
            var chamada = new Chamada(_clientFactory);
            var result = chamada.RetornaDadosApi();
 
-            return  result;
+            return  result.Result;
         }
 
         // GET api/values/5

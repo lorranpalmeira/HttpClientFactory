@@ -1,9 +1,12 @@
+using System.IO;
+using System.Threading.Tasks;
+
 namespace ChamadasHttpClient.Chamadas
 {
     public interface IChamada
     {
          
-        string RetornaDadosApi();
+        Task<string> RetornaDadosApi();
         
     }
 }
